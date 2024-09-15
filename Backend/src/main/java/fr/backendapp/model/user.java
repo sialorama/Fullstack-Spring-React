@@ -6,8 +6,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 
 @Entity
-
-public class user {
+public class User {
 
     @Id
     @GeneratedValue
