@@ -5,34 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05c3663e-d6fc-4c36-84c1-80b695dd1db1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/backendapp/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bda22554-d7e2-445d-b93b-b52c835d998c.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bda22554-d7e2-445d-b93b-b52c835d998c/storage_v2/_src_/schema/fullstack.WeEknQ.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/backendapp/BackendAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/backendapp/BackendAppApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/backendapp/model/user.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/backendapp/model/user.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/backendapp/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/backendapp/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/backendapp/exception/ResourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/backendapp/exception/ResourceNotFoundException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fr/backendapp/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/backendapp/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/BackendApp-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/BackendApp-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fr/backendapp/BackendAppApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fr/backendapp/BackendAppApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/user.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/repository/UserRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-fr.backendapp.BackendAppApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-fr.backendapp.BackendAppApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/fr.backendapp.BackendAppApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/fr.backendapp.BackendAppApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/fr/backendapp/BackendAppApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/fr/backendapp/BackendAppApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fr/backendapp/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fr/backendapp/controller/UserController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Frontend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Frontend/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Frontend/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Frontend/src/layout/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Frontend/src/layout/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Frontend/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Frontend/src/pages/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Frontend/src/users/AddUser.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Frontend/src/users/AddUser.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Frontend/src/users/EditUser.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Frontend/src/users/EditUser.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Frontend/src/users/ViewUser.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Frontend/src/users/ViewUser.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +28,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
+        <option value="Exception" />
       </list>
     </option>
   </component>
@@ -56,6 +43,9 @@
         <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -138,6 +128,8 @@
       <workItem from="1726415538389" duration="2032000" />
       <workItem from="1726417589017" duration="24000" />
       <workItem from="1726417628807" duration="758000" />
+      <workItem from="1726469908583" duration="533000" />
+      <workItem from="1726470483109" duration="6431000" />
     </task>
     <servers />
   </component>
