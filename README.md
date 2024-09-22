@@ -162,7 +162,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer, veuillez s
 5. Créer une Pull Request
 
 ## Apperçu du résultat
-![result.png]('./images/result.png')
+![result.png](./images/result.png)
 
 ## Licence
 
