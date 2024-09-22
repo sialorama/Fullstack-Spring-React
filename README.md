@@ -60,20 +60,20 @@ Le backend est structuré comme suit :
 ## Installation
 
 1. Clonez le projet :
-   ```bash
+```bash
    git clone https://github.com/votre-utilisateur/BackendApp.git
-   ```
+```
 2. Accédez au répertoire du projet :
-   ```bash
+```bash
    cd BackendApp
-   ```
+```
 3. Configurez votre base de données dans le fichier `application.properties`.
 
 4. Compilez et lancez l'application :
-   ```bash
+```bash
    mvn clean install
    mvn spring-boot:run
-   ```
+```
 
 ## Usage
 
@@ -127,24 +127,24 @@ frontend/
 ## Installation et configuration
 
 1. Cloner ce dépôt :
-   ```bash
+```bash
    git clone https://github.com/nom-utilisateur/nom-repo.git
-   ```
+```
 
 2. Aller dans le dossier du projet :
-   ```bash
+```bash
    cd frontend
-   ```
+```
 
 3. Installer les dépendances :
-   ```bash
+```bash
    npm install
-   ```
+```
 
 4. Démarrer le projet en mode développement :
-   ```bash
+```bash
    npm start
-   ```
+```
 
 ## Technologies utilisées
 
@@ -160,6 +160,9 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer, veuillez s
 3. Commit vos modifications (`git commit -m 'Ajout d'une nouvelle fonctionnalité'`)
 4. Push vers la branche (`git push origin fonctionnalité/amélioration`)
 5. Créer une Pull Request
+
+## Apperçu du résultat
+![result.png]('./images/result.png')
 
 ## Licence
 
