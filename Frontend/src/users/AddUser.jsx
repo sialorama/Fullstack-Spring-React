@@ -42,7 +42,7 @@ export default function AddUser() {
                             <input
                                 type="text"
                                 className="form-control"
-                                placeholder="Entrez le nom"
+                                placeholder="Saisissez le nom"
                                 name="name"
                                 value={name}
                                 onChange={onInputChange}
@@ -56,7 +56,7 @@ export default function AddUser() {
                             <input
                                 type="text"
                                 className="form-control"
-                                placeholder="Entrez le prénom"
+                                placeholder="Saisissez le prénom"
                                 name="username"
                                 value={username}
                                 onChange={onInputChange}
@@ -70,7 +70,7 @@ export default function AddUser() {
                             <input
                                 type="email"
                                 className="form-control"
-                                placeholder="Entrez l'adresse email"
+                                placeholder="Saisissez l'adresse email"
                                 name="email"
                                 value={email}
                                 onChange={onInputChange}
@@ -81,7 +81,7 @@ export default function AddUser() {
                             Ajouter
                         </button>
                         <button
-                            type="button" // Changer en type="button" pour éviter le submit par défaut
+                            type="button"
                             className="btn btn-danger mx-2"
                             onClick={() => navigate("/")}
                         >
